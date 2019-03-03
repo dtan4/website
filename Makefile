@@ -9,5 +9,5 @@ local:
 		--name $(DOCKER_CONTAINER_NAME) \
 		-d \
 		-p 8080:80 \
-		-v $$(PWD):/usr/share/nginx/html:ro \
+		-v $$(PWD)/html:/usr/share/nginx/html:ro \
 		$(DOCKER_IMAGE)
