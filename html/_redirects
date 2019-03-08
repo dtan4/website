@@ -2,3 +2,6 @@ https://dtan4-net.netlify.com/* https://dtan4.net/:splat 301!
 
 https://dtan4.com/* https://dtan4.net/:splat 301!
 https://dtan4-com.netlify.com/* https://dtan4.com/:splat 301!
+
+https://dtan4.dev/* https://dtan4.net/:splat 301!
+https://dtan4-dev.netlify.com/* https://dtan4.dev/:splat 301!
